@@ -1,0 +1,7 @@
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\bin\Debug\ConsoleClient1.exe.config
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\bin\Debug\ConsoleClient1.exe
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\bin\Debug\ConsoleClient1.pdb
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\obj\Debug\ConsoleClient1.csprojAssemblyReference.cache
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\obj\Debug\ConsoleClient1.csproj.CoreCompileInputs.cache
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\obj\Debug\ConsoleClient1.exe
+C:\Users\Sp3nc3r\source\repos\ConsoleClient1\ConsoleClient1\obj\Debug\ConsoleClient1.pdb
